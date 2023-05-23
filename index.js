@@ -15,7 +15,7 @@ const cookieParser = require("cookie-parser");
 const app = express();
 
 //Declaring and initializing port no for localhost
-const port = 8000;
+const port = process.env.PORT || 8000;
 
 //Importing express ejs layouts for 'views'(layout of the pages of socialVerse)
 const expressLayouts = require("express-ejs-layouts");

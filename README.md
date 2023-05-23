@@ -1,2 +1,3 @@
-# socialVerse-app
-A social media website created using NodeJS, expressJS, ejs, for backend, MongoDB for database, HTML, CSS and Javascript for frontend.
+# Social Media App
+
+# Live Link: https://social-media-da4q.onrender.com/
